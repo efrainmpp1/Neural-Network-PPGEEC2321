@@ -5,6 +5,9 @@
     "figsize",
     "infty",
     "mathbf",
-    "Minkowski"
+    "Minkowski",
+    "xlabel",
+    "ylabel",
+    "zlabel"
   ]
 }
